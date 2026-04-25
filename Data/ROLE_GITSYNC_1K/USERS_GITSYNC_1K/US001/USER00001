@@ -1,1 +1,1 @@
-{"__Id":"USER00001","__ETag":"ak5y8reqnjdbm","__ModifiedDate":"2026-04-26T02:36:59.527483+08:00","__Data":"{\"Id\":\"USER00001\",\"Name\":\"User 00001-upd\",\"Age\":21,\"Group\":\"group-1\",\"Tags\":[\"tag-1\"]}"}
+{"__Id":"USER00001","__ETag":"fkh6llkqumdux","__ModifiedDate":"2026-04-26T02:37:01.1740686+08:00","__Data":"{\"Id\":\"USER00001\",\"Name\":\"User 00001-upd\",\"Age\":55,\"Group\":\"patched-group-0\",\"Tags\":[\"tag-1\"]}"}
