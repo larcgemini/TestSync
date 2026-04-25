@@ -1,1 +1,1 @@
-{"__Id":"BATCH00017","__ETag":"5p2vvtwvlr3wu","__ModifiedDate":"2026-04-26T02:37:02.6442216+08:00","__Data":"{\"Id\":\"BATCH00017\",\"Name\":\"Batch User 00017\",\"Age\":42,\"Group\":\"batch-group-1\",\"Tags\":[\"batch-tag-1\"]}"}
+{"__Id":"BATCH00017","__ETag":"lzrjmexk2e9yu","__ModifiedDate":"2026-04-26T02:37:39.2353688+08:00","__Data":"{\"Id\":\"BATCH00017\",\"Name\":\"Batch User 00017-updated\",\"Age\":42,\"Group\":\"batch-group-1\",\"Tags\":[\"batch-tag-1\"]}"}
